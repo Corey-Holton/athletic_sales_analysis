@@ -117,3 +117,12 @@ This project processes athletic sales data from 2020 and 2021 to determine vario
 
 ## References
 Thiscode was assemebled with the help of classmates, AskBCS, Learning Assistant and the readme file was published with the help of ChatGBT.
+
+## Results
+- The New York, New York of the NorthEast region had the most overall sales
+- West Gear in San Franscisco had the most sales from a single retailer
+- West Gear sold the most womans athletic footware at a single location, but Footlocker as a retailer sold the most womans footware
+-Both the most sales in a single day and month were calculated to be July 16th 2021 and December 19th 2021 respectively. 
+
+
+
